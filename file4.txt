@@ -1,7 +1,6 @@
-hello my name is akash
 This is a practice session for git and github
-date- 26 december 2022 
-This is a practice session for git and github
+date- 26 december 2022 This is a practice session for git and github
+date- 26 december 2022 This is a practice session for git and github
 date- 26 december 2022 This is a practice session for git and github
 date- 26 december 2022 This is a practice session for git and github
 date- 26 december 2022 This is a practice session for git and github
